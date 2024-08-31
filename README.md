@@ -1,1 +1,3 @@
 # My resume
+Welcome to my resume repository ! This repository contains various versions of my resume.
+Reach out to me if interested or for more ...
